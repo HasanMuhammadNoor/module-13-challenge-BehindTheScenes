@@ -1,0 +1,27 @@
+{
+  "name": "module-13-challenge-behindthescenes",
+  "version": "1.0.0",
+  "description": "module-13-challenge-BehindTheScenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanMuhammadNoor/module-13-challenge-BehindTheScenes.git"
+  },
+  "keywords": [
+    "module-13-challenge-BehindTheScenes"
+  ],
+  "author": "Hasan Noor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasanMuhammadNoor/module-13-challenge-BehindTheScenes/issues"
+  },
+  "homepage": "https://github.com/HasanMuhammadNoor/module-13-challenge-BehindTheScenes#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.5"
+  }
+}
